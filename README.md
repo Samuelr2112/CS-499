@@ -1,50 +1,49 @@
 # CS-499
 # Samuel Rincon's Computer Science Capstone ePortfolio
 
-## Projects Overview
-This ePortfolio demonstrates my skills in software design, algorithms, and databases. Below are the key projects and their enhancements.
+## Overview
+This portfolio showcases key projects and enhancements completed during my Computer Science degree. It demonstrates skills in software engineering, algorithms, and databases.
 
 ---
 
 ### **1. E-commerce Application (Software Design and Engineering)**
-- **Description:** An e-commerce application enhanced with error handling, authentication, and modularity improvements.
+- **Description:** An e-commerce application with improved authentication, error handling, and modularity.
 - **Files:**  
-  - Original Code: `animal_shelter_dashboard_original.zip`
-  - Enhanced Code: `ecommerce_app_enhanced.zip`
-  - Narrative: `narrative_ecommerce_application.docx`
+  - [Enhanced Code (ecommerce_app_enhanced.zip)](ecommerce_app_enhanced.zip)  
+  - [Narrative (narrative_ecommerce_application.docx)](narrative_ecommerce_application.docx)
 
 ---
 
-### **2. Binary Search Tree Implementation (Algorithms and Data Structures)**
-- **Description:** A binary search tree implementation with optimized traversal and balanced functionality.
+### **2. Binary Search Tree (Algorithms and Data Structures)**
+- **Description:** A binary search tree implementation optimized with traversal and balancing.
 - **Files:**  
-  - Enhanced Code: `binary_search_tree_enhanced.zip`
-  - Narrative: `narrative_bst_implementation.docx`
+  - [Enhanced Code (binary_search_tree_enhanced.zip)](binary_search_tree_enhanced.zip)  
+  - [Narrative (narrative_bst_implementation.docx)](narrative_bst_implementation.docx)
 
 ---
 
-### **3. Animal Shelter Management Dashboard (Databases)**
-- **Description:** A dashboard to manage animal shelter data, enhanced with CRUD operations, optimized queries, and schema validation.
+### **3. Animal Shelter Dashboard (Databases)**
+- **Description:** A dashboard for managing animal shelter data, with optimized CRUD operations and queries.
 - **Files:**  
-  - Enhanced Code: `animal_shelter_dashboard_enhanced.zip`
-  - Narrative: `narrative_animal_shelter_dashboard.docx`
+  - [Enhanced Code (animal_shelter_dashboard_enhanced.zip)](animal_shelter_dashboard_enhanced.zip)  
+  - [Narrative (narrative_animal_shelter_dashboard.docx)](narrative_animal_shelter_dashboard.docx)
 
 ---
 
-### **Code Review**
-- **Description:** A video review of the original code, planned improvements, and enhancements.
+### **Code Review Video**
+- **Description:** Walkthrough of code review and enhancement plans.
 - **Files:**  
-  - Video: `code_review_video.mp4`
-  - Narrative: `narrative_code_review.docx`
+  - [Video (code_review_video.mp4)](code_review_video.mp4)  
+  - [Narrative (narrative_code_review.docx)](narrative_code_review.docx)
 
 ---
 
 ### **Professional Self-Assessment**
-- **Description:** An overview of my learning and growth in software development, algorithms, and databases.
+- **Description:** Overview of my learning and growth throughout the program.
 - **Files:**  
-  - Self-Assessment: `professional_self_assessment.docx`
+  - [Self-Assessment (professional_self_assessment.docx)](professional_self_assessment.docx)
 
 ---
 
-### **How to Use**
-Navigate the files above to view each artifact, narrative, and video.
+## **How to Use**
+Click on the file links above to view or download each artifact, narrative, and video.
